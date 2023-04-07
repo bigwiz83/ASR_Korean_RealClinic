@@ -2,7 +2,7 @@
 This GitHub repository contains Jupyter notebooks presenting the research results of an ongoing submission.
 (Title: Development and Benchmarking of a Korean Audio Speech Recognition Model for Clinician-Patient Conversations in Radiation Oncology Clinics)
 
-
+<img src="./readme.png">
 
 
 
